@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typing-game/static/css/main.e46071f7.css",
+    "main.js": "/typing-game/static/js/main.c6297deb.js",
+    "index.html": "/typing-game/index.html",
+    "main.e46071f7.css.map": "/typing-game/static/css/main.e46071f7.css.map",
+    "main.c6297deb.js.map": "/typing-game/static/js/main.c6297deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e46071f7.css",
+    "static/js/main.c6297deb.js"
+  ]
+}
