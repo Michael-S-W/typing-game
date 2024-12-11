@@ -1,0 +1,20 @@
+
+
+.App{
+  height: 100vh !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1{
+  font-size: 7vw !important;
+  margin: 30px auto !important;
+}
+
+textarea{
+  height: auto;
+  resize: none;
+  overflow: hidden;
+}
